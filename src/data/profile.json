@@ -9,31 +9,31 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/html.png"
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/css.png"
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/javascript.png"     
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/javascript.png"     
       },
       {
         "name": "React",
-        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/react.png"     
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/react.png"     
       },
       {
         "name": "Node.js",
-        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/nodejs.png"     
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/nodejs.png"     
       },
       {
         "name": "PostgreSQL", 
-        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/postgresql.png"
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/postgresql.png"
       },
       {
         "name": "Git",
-        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/git.png"
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/git.png"
       }
     ],
     "softSkills": [

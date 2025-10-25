@@ -1,9 +1,82 @@
 {
   "name": "Renata Uzêda",
   "photo": "https://avatars.githubusercontent.com/u/108536318?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
-  "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-}
+  "job": "Web Developer",
+  "location": "Rio de Janeiro - RJ",
+  "phone": "(21) 96584-1038",
+  "email": "renata.github@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/javascript.png"     
+      },
+      {
+        "name": "React",
+        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/react.png"     
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/nodejs.png"     
+      },
+      {
+        "name": "PostgreSQL", 
+        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/postgresql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://github.com/RenataUzeda/portfolio-dio/blob/main/src/assets/img/stacks/git.png"
+      }
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança",
+      "Proatividade",
+      "Adaptabilidade",
+      "Resolução de problemas"  
+    ]
+  },
+    "languages": [
+      "Português BR",
+      "Inglês (básico - estudando)"
+    ],
+    "portfolio": [
+      {
+        "name": "Simplifica Inteligência Contábil",
+        "url": "https://simplifica-inteligencia-contabil.vercel.app/",
+        "github": true
+      },
+      {
+        "name": "PDV Bella Venda",
+        "url": "https://github.com/RenataUzeda/pdv-bellavenda",
+        "github": true
+      },
+      {
+        "name": "Banco Digital",
+        "url": "https://github.com/RenataUzeda/banco-digital",
+        "github": true
+        } 
+    ],
+  "professionalExperience": [
+    {
+      "name": "",
+      "period": "",
+      "description": ""
+    },
+    {
+      "name": "",
+      "period": "",
+      "description": ""
+    }
+  ]
+} 
+  

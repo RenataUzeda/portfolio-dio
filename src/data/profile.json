@@ -1,0 +1,92 @@
+{
+  "name": "Renata Uzêda",
+  "photo": "https://avatars.githubusercontent.com/u/108536318?v=4",
+  "job": "Full Stack Web Developer",
+  "location": "Rio de Janeiro - RJ",
+  "email": "renata.github@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/renatauzeda/",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/javascript.png"     
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/react.png"     
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/nodejs.png"     
+      },
+      {
+        "name": "PostgreSQL", 
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/postgresql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.github.com/RenataUzeda/portfolio-dio/main/src/assets/img/stacks/git.png"
+      }
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança",
+      "Proatividade",
+      "Adaptabilidade",
+      "Resolução de problemas"  
+    ]
+  },
+    "languages": [
+      "Português BR",
+      "Inglês (básico - estudando)"
+    ],
+    "portfolio": [
+      {
+        "name": "Simplifica Inteligência Contábil",
+        "url": "https://simplifica-inteligencia-contabil.vercel.app/",
+        "github": true
+      },
+      {
+        "name": "PDV Bella Venda",
+        "url": "https://github.com/RenataUzeda/pdv-bellavenda",
+        "github": true
+      },
+      {
+        "name": "Banco Digital",
+        "url": "https://github.com/RenataUzeda/banco-digital",
+        "github": true
+        } 
+    ],
+  "professionalExperience": [
+    {
+      "name": "Gerente Geral | Coordenadora de Implantação | Técnica de Implantação e Treinamento",
+      "company": "Empresa PDV NET Sistemas ERP",
+      "period": "dez/2008 - mar/2020",
+      "functions": "Cargos ocupados: Técnica de Implantação e Treinamento de Sistemas → Coordenadora de Implantação e Treinamento de Sistemas → Gerente Geral PDV NET",
+      "resume": "Resumo de atuação como Gerente Geral:",
+      "description": "Evolui de Técnica de Implantação e Treinamento de Sistemas ERP à Gerência Geral da empresa, cargo criado para formalização da minha atuação na empresa após divisão societária. Liderei uma equipe multidisciplinar com quase 60 colaboradores internos e uma base de 900 clientes e aproximadamente 3000 pontos instalados. Atuei fazendo gestão administrativa, financeira e operacional da empresa, estruturei setores, desenvolvi e padronizei processos internos, treinei equipes, aumentei a eficiência operacional, representei a empresa em clientes, instituições bancárias, fornecedores, parceiros comerciais, eventos, e até judicialmente, conduzi mudanças estratégicas que fortaleceram a operação, o engajamento dos colaboradores, o atendimento ao cliente e o crescimento do negócio.",
+      "responsibilitiesTitle": "Principais responsabilidades como Gerente Geral:",
+      "responsibilities":["Gerir e coordenar estratégicamente os setores administrativo, financeiro, comercial, suporte e implantação, a fim de garantir a execução de projetos voltados à melhoria de processos da empresa e alinhar as demandas operacionais dessas áreas.", "Analisar dados e relatórios gerenciais para apoiar decisões e impulsionar o crescimento sustentável da empresa.", "Monitorar o progresso das metas corporativas e dar suporte às lideranças no desdobramento do plano estratégico da empresa.", "Gerenciar os processos financeiros da empresa, assegurando obter equilíbrio operacional e geração de caixa.", "Buscar novas tecnologias que elevem a qualidade na prestação de serviço ao cliente e reduzam riscos operacionais e financeiros.", "Recrutar, selecionar e avaliar o desempenho de colaboradores.", "fortalecer o relacionamento entre clientes todos os setores da empresa.", "Melhorar o ambiente organizacional, implantar e conduzir a gestão processo de controle de patrimonial."]
+    },
+    {
+      "name": "Supervisora de Lojas - Estoque e Sistema | Gerente de Loja| Auxiliar Administrativo",
+      "company": "Empresa Riviera Plásticos",
+      "period": "dez/1999 - set/2005",
+      "functions": "Cargos ocupados: Auxiliar Administrativo → Atendente de Depósito → Operadora de Caixa e Auxiliar de Gerente → Secretária da Gestora → Gerente de Loja → Supervisora de Loja (Estoque/Sistema).",
+      "resume": "Resumo de atuação como Supervisora de Lojas - Estoque e Sistema:",
+      "description": "Iniciei como Auxiliar Administrativo e fui sendo promovida até ocupar um cargo criado especialmente para mim (Supervisora de Lojas - Estoque e Sistema), após implantar o uso de sistema para controle de estoque e caixa e tornar a loja sob minha gestão modelo nacional para treinamento de caixas e gerentes no uso do sistema ERP. Assim fui responsável por treinar equipes e padronizar processos em mais de 80 lojas no Brasil, com foco em eficiência, gestão e inovação utilizando Sistema Retail Pró.",
+      "responsibilitiesTitle": "Principais responsabilidades como Supervisora de Lojas - Estoque e Sistema:",
+      "responsibilities": ["Realizar treinamentos para gerentes e caixas no sistema ERP Retail Pró.", "Conferir estoque físico com sistema após inventário.", "Dar suporte no sistema para as lojas, tirando dúvidas e explicando novas funcionalidades.", "Analisar possíveis bugs no sistema e abrir chamados se necessário.", "Ser o ponto focal, em relação ao sistema Retail Pró, para as lojas, para a direção da empresa e para a equipe representante do sistema."] 
+    }
+  ]
+} 
+  

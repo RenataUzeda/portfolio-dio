@@ -18,7 +18,7 @@ function updateProfileInfo(profileData) {
 
     const linkedin = document.getElementById('profile.linkedin')
     linkedin.innerText = profileData.linkedin
-    linkedin.href = `tel:${profileData.linkedin}`
+    linkedin.href = `${profileData.linkedin}`
 
 }
 
